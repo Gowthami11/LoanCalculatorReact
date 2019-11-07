@@ -23,13 +23,11 @@ Download and install npm
 ### Installing
 
 Follow these steps to run this project in your local computer.
-
 ```
 $ https://github.com/Gowthami11/LoanCalculatorReact.git
 $ cd react-loan-interest-calculator
 $ npm i
 ```
-
 Now, to run the project on port `3000`, run:
 
 ```
