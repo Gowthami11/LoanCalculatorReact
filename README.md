@@ -6,7 +6,7 @@
 
 ## Features
 
-- An user interface that allows a user to enter loan amount and
+- A user interface that allows a user to enter loan amount and
   loan duration in months which then displays the interest rate and the monthly payment.
 - The user can enter monetary amount and loan duration by using a slider.
 - The loan amount should be between 500 and 5000 \$ and the loan duration between 6
